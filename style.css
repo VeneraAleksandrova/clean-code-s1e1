@@ -74,8 +74,7 @@
 }
 
 /* Heading */
-.title-h3,
-.add-task-label {
+.title-h3 {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -103,7 +102,7 @@
 }
 
 /* New Task */
-.add-task-label {
+#add-tasks .title-h3 {
   display: block;
   margin: 0 0 20px;
 }
